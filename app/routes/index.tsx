@@ -1,7 +1,15 @@
 export default function Index() {
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.4" }}>
-      <h1>Welcome to Remix</h1>
+      <h1>
+        <a href="https://en.wikipedia.org/wiki/Orrin_Keepnews">
+          Orrin Keepnews
+        </a>
+        &nbsp; will become &nbsp;
+        <a href="https://www.youtube.com/watch?v=xiRRfKoNl50">
+          Re: Person I Knew
+        </a>
+      </h1>
       <ul>
         <li>
           <a

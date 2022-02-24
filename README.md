@@ -2,6 +2,8 @@
 
 1. https://blog.cloudflare.com/remix-on-cloudflare-pages/
 2. `npx create-remix@latest`
+3. Go through the steps in #1
+4. We're live at https://anagrams.pages.dev/.
 
 # Welcome to Remix!
 
